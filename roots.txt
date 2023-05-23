@@ -442,3 +442,78 @@ lingu: language
 lipo: fat
 (eg. bilingual, linguistics, linguist)
 
+lith (lite, ite): mineral, rock, fossil
+(eg. appatite, granite, monolith)
+
+liter: letter
+(eg. alliteration, literate, literal, literacy)
+
+loc: place
+(eg. location, discolate, relocate)
+
+locu (loqu): speak
+(eg. loquacious, eloquent)
+
+log (logy): study, speech
+(eg. logic, dialogue, monologue)
+
+longus: long
+(eg. longevity, longitude)
+
+luc: light
+(eg. elucidate, lucid, translucent)
+
+lud (lus): to play, display
+(eg. prelude, illusion, delude, allude)
+
+lumin: light
+(eg. illumination, illuminate, luminol, lumen)
+
+macro: large, great
+(eg. macroeconomics, macronutrients, macroevolution)
+
+maij: greater
+(eg. majority, majesty, major)
+
+mal: bad, evil
+(eg. malice, maltreat, malfeasance)
+
+man: hand
+(eg. manicure, manual, manager, maneuver)
+
+mand: to order
+(eg. mandate, mandatory, command, demand)
+
+mania: madness, excessiveness
+(eg. egomania, maniac, hypermania)
+
+mar: sea
+(eg. marine, marina, maritime, aquamarine)
+
+mater (matr): mother
+(eg. maternity, maternal, matriarch, matrimony)
+
+max: greatest
+(eg. maximum, maximize)
+
+medi: middle
+(eg. mediocre, medium, medieval)
+
+mega: large
+(eg. megaphone, megastructure, megadose)
+
+melan: black, dark
+(eg. melancholy, melanoma, melodrama)
+
+memor: remember
+(eg. commemorate, memory, memorial)
+
+merge: dip, dive
+(eg. immerge, submerge)
+
+meso: middle
+(eg. Mesoamerica, meson)
+
+meta: change, beyond, after
+(eg. metaphysics, metamorphosis, metastasis)
+
