@@ -667,3 +667,78 @@ per: through
 peri: around
 (eg. perimeter, peripheral)
 
+phag: to eat
+(eg. esophagus, sarcophagi)
+
+phil: loving
+(eg. philanthropic, philosophy)
+
+phob: fear
+(eg. hydrophobia, phobia, claustrophobic)
+
+phon: sound
+(eg. telephone, saxophone, microphone)
+
+photo: light
+(eg. photograph, photogenic, photosynthesis)
+
+phyt: plant, to grow
+(eg. hydrophyte, neophyte)
+
+pneu: air, breath
+(eg. pneumonia, pneumatic)
+
+poli (polis): city
+(eg. metropolis, cosmopolitan)
+
+pop: people
+(eg. population, popular)
+
+port: carry
+(eg. portable, deport, portal)
+
+Pos: put, place
+(eg. position, compose, deposit)
+
+post: after
+(eg. posterior, postpone, postmortem)
+
+pre: before
+(eg. prevent, predetermined, precaution, preview)
+
+psuedo: false
+(eg. pseudonym, pseudoscience)
+
+psyche: mind, spirit
+(eg. psychology, psychic)
+
+pugn (pung): to fight
+(eg. pugnacious, repugnant, pungent)
+
+pul: urge
+(eg. compulsion, impulsive, expulsion)
+
+purg: clean
+(eg. purge, purgatory, expurgate)
+
+pyr: fire
+(eg. pyromaniac, pyrogen)
+
+quad: four
+(eg. quadruple, quadrant, quadriplegic)
+
+quin: five
+(eg. quints, quintessence)
+
+radic (radix): root
+(eg. eradicate, radical, radish)
+
+re: again
+(eg. rebuild, renew, restart, reflect)
+
+reg: guide, rules
+(eg. regulate, regular, regent, regime)
+
+retro: back, backward
+(eg. retroactive, retrospect, retrograde)
+
