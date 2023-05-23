@@ -1,0 +1,368 @@
+ab: away
+(eg. absent, abduct, abnormal, abort)
+
+acer (acid): bitter, sour
+(eg. acerb, acerbate, acidity)
+
+acro: top, height
+(eg. acrobat, acronym, acrophobia)
+
+acu: sharp
+(eg. acute, acupressure, acupuncture, acuity)
+
+aer: air, atmosphere
+(eg. aerosol, aeroplane)
+
+agri: farming
+(eg. agriculture, agrarian)
+
+alb: white
+(eg. albino, albumen, albacore)
+
+amb: around, both
+(eg. ambient, ambiguous, amble)
+
+ambul: walk, move
+(eg. amble, ambulance, ambulant)
+
+amic: friendly
+(eg. amicable, amicably, dynamic)
+
+anim: life, living
+(eg. animal, animate, equanimity)
+
+ann (enn): year
+(eg. anniversary, annual, millennium)
+
+ante: before
+(eg. antemortem, antebellum)
+
+anthro: human
+(eg. anthropology, philanthropist)
+
+anti (ant): against, opposite
+(eg. antagonist, antidote, antibiotics)
+
+aqu: water
+(eg. aquarium, aquifer)
+
+arbor: tree
+(eg. arborist, harbored, arborize)
+
+arche (archi): primitive, origin
+(eg. archaic, archaeology, archive)
+
+arthr: joint
+(eg. arthroscope, arthritis, arthropod)
+
+astro: star
+(eg. astronaut, astronomy, astrogate)
+
+audi: hearing, sound
+(eg. auditory, auditorium, audience)
+
+auto: self
+(eg. autopilot, autonomous, automatic)
+
+avi: bird
+(eg. aviator, aviary, aviatrix)
+
+bel: war, fight
+(eg. rebel, antebellum)
+
+bene: good
+(eg. benefit, benign, benevolent, benefactor)
+
+bi: two
+(eg. bicycle, biceps, biscotti, biweekly)
+
+biblio: book
+(eg. bibliography, bibliophile)
+
+bio: life
+(eg. biology, biological, biography)
+
+blast: cell, primitive
+(eg. blastula, fibroblast, blastoderm)
+
+bon: good
+(eg. bonus, bonanza)
+
+cap: head
+(eg. capital, decapitate, captain)
+
+capt (cept): take hold of
+(eg. captivate, intercept, capture)
+
+cardi: heart
+(eg. cardiac, cardiologist, cardiovascular)
+
+cata: intensive, according to
+(eg. cataclysm, catastrophic, catalog)
+
+caust (caut): to burn
+(eg. cauterize, holocaust)
+
+cede (cess, ced): go, withdraw
+(eg. recede, exceed, recession)
+
+ceive: take
+(eg. receive, perceive, reconceive)
+
+cent: hundred
+(eg. centennial, century, percent)
+
+cerebr: brain
+(eg. cerebral, cerebrate)
+
+cert: sure
+(eg. certain, ascertain, certify)
+
+chron: time
+(eg. chronicle, chronology)
+
+cide: kill
+(eg. genocide, pesticide)
+
+circum: around
+(eg. circumference, circumstance)
+
+clam (claim): shout, speak
+(eg. exclaim, clamor, proclaim)
+
+clar: clear
+(eg. clarify, clarification, declare)
+
+clud (clus): close
+(eg. conclusion, seclude, conclude)
+
+clin (cline): lean
+(eg. inclination, incline, recline)
+
+Co: with, together, joint
+(eg. coauthor, cosign, collaborate, cooperate)
+
+cog: know
+(eg. cognitive, incognito, cognition)
+
+con: together, common
+(eg. connect, convention, concur)
+
+contra: against
+(eg. contraband, contrary)
+
+corp: body
+(eg. corporation, corpse, corporal)
+
+cosm: world
+(eg. cosmic, microcosm)
+
+counter: opposing, contrary
+(eg. counteract, counterintuitive, counteroffer)
+
+cracy (crat): government, authority
+(eg. democracy, democrat, theocracy, bureaucracy)
+
+cred: believe
+(eg. incredible, credit, credulous, credence)
+
+crypt: hidden, secret
+(eg. cryptic, encrypt)
+
+culp: blame, fault
+(eg. culpable, exculpate, culprit)
+
+cumul: mass, heap
+(eg. accumulate, cumulative)
+
+cycle: circle
+(eg. bicycle, cyclone, cyclist)
+
+dec (deka): ten
+(eg. decade, decimal. decathlon)
+
+dem: people
+(eg. democracy, demographics)
+
+dent: tooth
+(eg. dentist, dentistry, dentifrice)
+
+derma: skin
+(eg. dermatologist, hypodermic, dermatitis, pachyderm)
+
+di: twice, two
+(eg. dilemma, diverse, dioxide)
+
+dia: across, through
+(eg. dialogue, diameter, diagnosis)
+
+dic (dict): speak
+(eg. dictate, dictator, contradict)
+
+domin: master
+(eg. dominate, predominate, dominerring)
+
+don: give
+(eg. donate, pardon, donor)
+
+dorm: sleep
+(eg. dormitory, dormant, dormer)
+
+dur: harden, long lasting
+(eg. durable, duration, endure)
+
+dyn: power, energy
+(eg. dynamite, dynamic)
+
+ego: self
+(eg. egotistical, egomania)
+
+ence (ance): state, condition
+(eg. performance, conference, insurance)
+
+endo: within, inside
+(eg. endocrine, endometrial)
+
+esth (aesth): beauty, feeling
+(eg. esthetician, aesthetic, kinesthesia)
+
+ethn: nation, race
+(eg. ethnicity, ethnology, ethnocentric)
+
+eu: good, well
+(eg. euphemism, euphoria)
+
+ex: out, former
+(eg. exit, ex-girlfriend, exterminate, extract)
+
+extra: beyond
+(eg. extraordinary, extraterrestrial, extravagance)
+
+fac: make,do
+(eg. artifact, factory, factor, malefactor)
+
+famil: a close attendant
+(eg. family, familiar)
+
+femin: woman
+(eg. feminism, feminine)
+
+fend (fens): strike
+(eg. offend, offense, defend, defense)
+
+fer: carry, bring
+(eg. transfer, ferry, conifer, confer)
+
+fid: trust
+(eg. confidence, fidelity)
+
+flect (flex): bend
+(eg. reflect, flexible, inflect, deflect)
+
+foli: leaf
+(eg. foliage, defoliant)
+
+fore: in front of, previous
+(eg. before, therefore, forebode, forecast)
+
+fract (frag): to break
+(eg. fracture, fragment, fraction)
+
+fug: flee, escape
+(eg. refugee, fugitive, refuge)
+
+fum: smoke
+(eg. fumes, fumigation)
+
+fusc: dark
+(eg. obfuscation, infuscate, subfuscous, fuscous)
+
+gen: family, born
+(eg. genetics, generation, gender, gene)
+
+geo: earth
+(eg. geography, geology)
+
+ger: old age
+(eg. geriatrics, gerontology)
+
+giga: A billion
+(eg. gigabyte, gigawatt)
+
+gon: angle
+(eg. polygon, decagon, octagon, hexagon)
+
+grad (gress): to step, to go
+(eg. digress, gradual, graduate)
+
+gram: writing
+(eg. grammar, grammatically)
+
+graph: write
+(eg. paragraph, autograph)
+
+grat: pleasing
+(eg. gratification, gratitude, grateful)
+
+grav (griev): heavy
+(eg. gravity, grave, aggravate, greive)
+
+gymn: bare
+(eg. gymnast, gymnastics, gymnosperm)
+
+gyn: woman
+(eg. gynecology, androgynous, misogyny)
+
+hab (hib): have
+(eg. habit, habitual, prohibition, exhibit)
+
+helio: sun
+(eg. heliograph, heliometer, perihelion)
+
+hemo: blood
+(eg. hemorrhage, hemoglobin, hemophiliac)
+
+hepa: liver
+(eg. hepatitis, hepatoma, hepatotoxic)
+
+herbi: grass, plant
+(eg. herbivore, herbicide, herbal)
+
+hex: Six
+(eg. hexagon, hexapod, hexameter)
+
+hiero: sacred, holy
+(eg. hierarchy, hieroglyphics)
+
+histo: tissue
+(eg. histology, histogenesis, histochemical)
+
+homo (homeo): same, alike
+(eg. homogeneous, homonym, homeopath)
+
+hosp: guest
+(eg. hospital, hospice, hospitable)
+
+host: enemy, stranger
+(eg. hostage, hostile)
+
+hydra: water
+(eg. hydrate, hydraulic)
+
+hyper: over, beyond
+(eg. hyperactive, hyperventilate)
+
+hypno: sleep
+(eg. hypnotic, hypnosis)
+
+hypo: under
+(eg. hypothermic, hypothesis, hypoglycemia)
+
+ian: related to
+(eg. librarian, historian, pedestrian)
+
+iatr: medical care
+(eg. geriatrics, pediatrics, podiatrist)
+
+icon: image
+(eg. iconic, iconology)
