@@ -403,7 +403,7 @@ junct: join
 juven: young
 (eg. conjunction, junction, disjunctions)
 
-: not
+ir: not
 (eg. irrational, irredeemable, irrelevant, irregular, irresponsible)
 
 iso: equal
@@ -458,7 +458,7 @@ lingu: language
 (eg. bilingual, linguistics, linguist)
 
 lipo: fat
-
+(eg. liposuction, lipase)
 
 lith (lite, ite): mineral, rock, fossil
 (eg. appatite, granite, monolith)
