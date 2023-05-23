@@ -403,44 +403,62 @@ junct: join
 juven: young
 (eg. conjunction, junction, disjunctions)
 
-kilo: thousand
+: not
+(eg. irrational, irredeemable, irrelevant, irregular, irresponsible)
+
+iso: equal
+(eg. isobar, isometric)
+
+ject: throw, push
+(eg. eject, reject, interject)
+
+jud: law
+(eg. judicial, judge, judgement)
+
+junct: join
+(eg. conjunction, junction, disjunctions)
+
+juven: young
 (eg. juvenile, rejuvenate)
 
-kine: movement
+kilo: thousand
 (eg. kilobyte, kilometer, kilogram)
 
-lab: work
+kine: movement
 (eg. telekinesis, kinetic, kinesthetic)
 
-lat: broad, wide
+lab: work
 (eg. elaborate, laboratory, laborious, labor, collaborate)
 
-later: side
+lat: broad, wide
 (eg. dilate, latitude)
 
-laud: praise
+later: side
 (eg. bilateral, unilateral)
 
-lax: not tense
+laud: praise
 (eg. laudably, applause, applaud)
 
-less: without
+lax: not tense
 (eg. relax, relaxation, laxness, laxative)
 
-lev: lift
+less: without
 (eg. homeless, useless, wireless, restless)
 
-lex: word, law
+lev: lift
 (eg. elevator, levitate, level)
 
-liber: free
+lex: word, law
 (eg. lexicology, dyslexic, alexia)
 
-lingu: language
+liber: free
 (eg. liberty, liberate, libertine)
 
-lipo: fat
+lingu: language
 (eg. bilingual, linguistics, linguist)
+
+lipo: fat
+
 
 lith (lite, ite): mineral, rock, fossil
 (eg. appatite, granite, monolith)
