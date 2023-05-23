@@ -517,3 +517,78 @@ meso: middle
 meta: change, beyond, after
 (eg. metaphysics, metamorphosis, metastasis)
 
+meter: measure
+(eg. diameter, thermometer)
+
+micro: small
+(eg. microscope, micronutrient)
+
+mid: middle
+(eg. midway, midterm, midpoint, midweek)
+
+migr: move
+(eg. immigrant, emigrate, migrant, migration)
+
+milli: one thousandth
+(eg. millimeter, millibar, millileter)
+
+min: small
+(eg. minimum, miniature, mini-mart, minute)
+
+mir: amazement
+(eg. miraculous, mirage)
+
+mis: wrong, bad
+(eg. mistake, misprint, misinterpret, misbehave)
+
+miss (mit): send, cast
+(eg. remit, dismiss, missle, emit)
+
+mob: move
+(eg. mobilize, immobilize, mobility)
+
+mon: warn
+(eg. summon, admonish, premonition, monitor)
+
+mort: death
+(eg. mortuary, immortal, mortify)
+
+mot (mov): move
+(eg. motion, motivate, remove, moveable)
+
+multi: many
+(eg. multicultural, multigrain, multimedia, multicolored)
+
+mut: to change
+(eg. mutate, mutation)
+
+my: muscle
+(eg. myocardium, myosin, myasthenia)
+
+narr: tell
+(eg. narrator, narration, narrative)
+
+nat: born
+(eg. innate, natural, natal)
+
+naut: ship
+(eg. nautical, astronaut, argonaut)
+
+neg: no
+(eg. negate, negative, renege)
+
+neur: nerve
+(eg. neuralgia, neurologist, nerves, neurotic)
+
+neo: new
+(eg. neophyte, neonatal, neologistic, neocolonialism)
+
+nomin: to name
+(eg. nominate, misnomer, nominal, nomination)
+
+non: not
+(eg. nonviolent, nonstop, nonrefundable)
+
+not: note, paper
+(eg. notable, noteworthy)
+
