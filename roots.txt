@@ -366,3 +366,79 @@ iatr: medical care
 
 icon: image
 (eg. iconic, iconology)
+
+ideo: idea
+(eg. ideology, ideologue, ideologic)
+
+idio: peculiar, distinct
+(eg. idiotic, idiomatic)
+
+in (il): not
+(eg. incapable, incomplete, informal, illegal, illogical)
+
+infra: beneath
+(eg. infrastructure, infrared)
+
+init: to begin or enter
+(eg. initiate, initiation, initiative, initial)
+
+inter: between
+(eg. interview, international, interstate)
+
+ir: not
+(eg. irrational, irredeemable, irrelevant, irregular,)
+
+iso: equal
+(eg. irresponsible)
+
+ject: throw, push
+(eg. isobar, isometric)
+
+jud: law
+(eg. eject, reject, interject)
+
+junct: join
+(eg. judicial, judge, judgement)
+
+juven: young
+(eg. conjunction, junction, disjunctions)
+
+kilo: thousand
+(eg. juvenile, rejuvenate)
+
+kine: movement
+(eg. kilobyte, kilometer, kilogram)
+
+lab: work
+(eg. telekinesis, kinetic, kinesthetic)
+
+lat: broad, wide
+(eg. elaborate, laboratory, laborious, labor, collaborate)
+
+later: side
+(eg. dilate, latitude)
+
+laud: praise
+(eg. bilateral, unilateral)
+
+lax: not tense
+(eg. laudably, applause, applaud)
+
+less: without
+(eg. relax, relaxation, laxness, laxative)
+
+lev: lift
+(eg. homeless, useless, wireless, restless)
+
+lex: word, law
+(eg. elevator, levitate, level)
+
+liber: free
+(eg. lexicology, dyslexic, alexia)
+
+lingu: language
+(eg. liberty, liberate, libertine)
+
+lipo: fat
+(eg. bilingual, linguistics, linguist)
+
