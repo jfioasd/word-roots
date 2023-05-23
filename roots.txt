@@ -817,3 +817,80 @@ stell: star
 Sub: below, under
 (eg. submarine, subpar)
 
+super: higher in quality or quantity
+(eg. superior, supernatural, superfan, superb)
+
+syn (sym): with, together
+(eg. synonym, sympathy)
+
+tact: to touch
+(eg. contact, tactile)
+
+tax: arrangement
+(eg. syntax, taxonomy, ataxia)
+
+techn (techno): art, skill
+(eg. technologic, technique)
+
+tele: far
+(eg. television, telephone, telescope)
+
+temp: time
+(eg. contemporary, temporary, tempo)
+
+term: end, limit
+(eg. determine, terminate, exterminate, midterm)
+
+tetra: four
+(eg. tetrapod, tetrarchy)
+
+theo (the): god
+(eg. theology, monotheism)
+
+tort: twist
+(eg. contort, distort, retort)
+
+tox: poison
+(eg. toxin, detoxification, toxicology, toxic, intoxicated)
+
+tract: puil
+(eg. tractor, subtract, attract, contraction)
+
+trans: across, through
+(eg. transform, transaction, translate, transport)
+
+ultra: beyond, extreme
+(eg. ultrasonic, ultramodern)
+
+un: not
+(eg. unfair, unable, unfriendly, uncontrollable)
+
+uni: one
+(eg. unicycle, united, unison)
+
+urb: city
+(eg. suburb, urban, urbanology)
+
+vac: empty
+(eg. vacuum, vacant, evacuate)
+
+ven: come
+(eg. venue, invent, preventative)
+
+vic (vin): to win
+(eg. victory, convince, invincible)
+
+vid (vis): see
+(eg. video, visual, video, visible)
+
+voc: call
+(eg. vocalize, vocal)
+
+vor (vour): eat
+(eg. devour, voracious, carnivore, herbivore)
+
+xen: foreign
+(eg. xenocide, xenophobic, xenophile)
+
+zoo: animal
+(eg. zookeeper, zoology)
