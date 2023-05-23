@@ -385,23 +385,6 @@ init: to begin or enter
 inter: between
 (eg. interview, international, interstate)
 
-ir: not
-(eg. irrational, irredeemable, irrelevant, irregular,)
-
-iso: equal
-(eg. irresponsible)
-
-ject: throw, push
-(eg. isobar, isometric)
-
-jud: law
-(eg. eject, reject, interject)
-
-junct: join
-(eg. judicial, judge, judgement)
-
-juven: young
-(eg. conjunction, junction, disjunctions)
 
 ir: not
 (eg. irrational, irredeemable, irrelevant, irregular, irresponsible)
