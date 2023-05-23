@@ -742,3 +742,78 @@ reg: guide, rules
 retro: back, backward
 (eg. retroactive, retrospect, retrograde)
 
+rhod: red
+(eg. rhodopsin, cynorrhodon, rhodamine)
+
+rid: laugh
+(eg. ridicule, ridiculous)
+
+rub: red
+(eg. ruby, rubella, bilirubin)
+
+rupt: burst
+(eg. rupture, disrupt, interrupt, erupt)
+
+san: health
+(eg. sane, sanity, insane, sanitation)
+
+scend: climb, go
+(eg. ascend, crescendo, descent)
+
+Sci: to know
+(eg. science, conscience, conscious, omniscient)
+
+scop: see, look
+(eg. telescope, microscope)
+
+scrib: write
+(eg. scribe, prescribe, inscribe, describe)
+
+se: apart
+(eg. secede, seclude, serum)
+
+sect: cut
+(eg. dissect, intersect, section)
+
+sed: sit
+(eg. sediment, sedentary)
+
+self: of, for, by itself
+(eg. self-respect, self-control, selfish, selfless)
+
+semi: half
+(eg. semicircle, semicolon, semifinal)
+
+sens: feel
+(eg. sensitive, consent, sentimental)
+
+serv: to save or keep
+(eg. conservation, reserve, preserve)
+
+sol: comfort
+(eg. consolation, solace)
+
+son: sound
+(eg. consonant, supersonic)
+
+soph: wise
+(eg. philosophy, sophisticated, sophism)
+
+spect: see
+(eg. spectator, spectacles, inspect)
+
+sphere: ball
+(eg. biosphere, hemisphere)
+
+spir: breathe
+(eg. respiratory, inspirational)
+
+sta: stand
+(eg. stable, stability, stagnant, stationary)
+
+stell: star
+(eg. interstellar, constellation, stellar)
+
+Sub: below, under
+(eg. submarine, subpar)
+
