@@ -592,3 +592,78 @@ non: not
 not: note, paper
 (eg. notable, noteworthy)
 
+noun: declare
+(eg. announce, denounce, announcement)
+
+nov: new
+(eg. novice, renovate, novelty)
+
+null: none
+(eg. nullify, nullification, nulliparity)
+
+numer: number
+(eg. numeral, numerical, enumerate, numerous)
+
+ob (op): in the way, against
+(eg. object, objection, opposition, obscure)
+
+oct: eight
+(eg. octopus, octagon, octave)
+
+ocu: eye, sight
+(eg. oculist, binoculars, monocula)
+
+omni: all
+(eg. omnipotent, omniscient, omnivorous)
+
+ono (onym): name
+(eg. onomatopoeia, anonymous, acronym)
+
+opt: best
+(eg. optimal, optimum, optimize)
+
+ortho: straight
+(eg. orthodontist, orthopedic)
+
+osteo: bone
+(eg. osteoporosis, osteoarthritis)
+
+ous: having
+(eg. adventurous, hazardous, nauseous, joyous)
+
+out: beyond, surpass, exceed
+(eg. outgoing, outdoor, outside, outlive)
+
+over: excessive
+(eg. overconfident, overstock, overexcited, overrun)
+
+oxy: sharp
+(eg. oxymoron, oxidize)
+
+paleo: ancient
+(eg. paleontologist, Paleolithic, paleography)
+
+pan: all
+(eg. pandemic, panorama, pantheon, panacea)
+
+para: beside, related
+(eg. parallel, parasite, paramedic)
+
+path: feeling, disease
+(eg. pathogen, sympathetic, psychopath)
+
+pel (puls): drive, push
+(eg. dispel, repulse, compel, compulsion)
+
+ped: foot, kid
+(eg. pedestrian, pedometer, pediatrician)
+
+penta: five
+(eg. pentagon, pentagram, pentathlon)
+
+per: through
+(eg. perception, perceive)
+
+peri: around
+(eg. perimeter, peripheral)
+
