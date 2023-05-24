@@ -853,7 +853,7 @@ tort: twist
 tox: poison
 (eg. toxin, detoxification, toxicology, toxic, intoxicated)
 
-tract: puil
+tract: pull
 (eg. tractor, subtract, attract, contraction)
 
 trans: across, through
