@@ -472,7 +472,7 @@ lumin: light
 macro: large, great
 (eg. macroeconomics, macronutrients, macroevolution)
 
-maij: greater
+maj: greater
 (eg. majority, majesty, major)
 
 mal: bad, evil
